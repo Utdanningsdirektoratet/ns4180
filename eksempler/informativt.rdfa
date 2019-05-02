@@ -1,0 +1,37 @@
+<div vocab="http://schema.org/" typeof="CreativeWork">
+    <meta property="name" content="Eksempeloppgave i tall og algebra">
+    <meta property="dateCreated" content="2018-02-01">
+    <meta property="inLanguage" content="no">
+    <meta property="license" content="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.no">
+    <meta property="educationalUse" content="assessment">
+    <meta property="timeRequired" content="PT2M">
+    <meta property="typicalAgeRange" content="10-12">
+    <meta property="interactivityType" content="active">
+    <meta property="learningResourceType" content="assessmentItem">
+    <div property="author" typeof="Person">
+        <meta property="givenName" content="Gallus">
+        <meta property="familyName" content="LeBeau">
+    </div>
+    <div property="publisher" typeof="Organization">
+        <meta property="legalName" content="Dev Learning">
+    </div>
+    <div property="audience" typeof="EducationalAudience">
+        <meta property="educationalRole" content="student">
+    </div>
+    <div property="educationalAlignment" typeof="AlignmentObject">
+        <meta property="alignmentType" content="assesses">
+        <meta property="educationalFramework" content="Kunnskapsløftet">
+        <meta property="targetDescription"
+            content="beskrive og bruke plassverdisystemet for desimaltal, rekne med positive og negative heile tal, desimaltal, brøkar og prosent og plassere dei ulike storleikane på tallina">
+        <meta property="targetName" content="K15185">
+        <meta property="targetUrl" content="http://psi.udir.no/kl06/K15185">
+    </div>
+    <div property="educationalAlignment" typeof="AlignmentObject">
+        <meta property="alignmentType" content="assesses">
+        <meta property="educationalFramework" content="Kunnskapsløftet">
+        <meta property="targetDescription"
+            content="utvikle, bruke og diskutere metodar for hovudrekning, overslagsrekning og skriftleg rekning og bruke digitale verktøy i berekningar">
+        <meta property="targetName" content="K15186">
+        <meta property="targetUrl" content="http://psi.udir.no/kl06/K15186">
+    </div>
+</div>

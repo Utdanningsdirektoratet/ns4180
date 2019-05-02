@@ -1,0 +1,52 @@
+{
+    "@context": "http://schema.org",
+    "@type": "CreativeWork",
+    "name": "Eksempeloppgave i tall og algebra",
+    "dateCreated": "2018-02-01",
+    "inLanguage": "no",
+    "license": "http://creativecommons.org/licenses/by-nc-nd/3.0/deed.no",
+    "educationalUse": [
+        "assessment"
+    ],
+    "timeRequired": "PT2M",
+    "typicalAgeRange": "10-12",
+    "interactivityType": [
+        "active"
+    ],
+    "learningResourceType": [
+        "assessmentItem"
+    ],
+    "author": {
+        "@type": "Person",
+        "givenName": "Gallus",
+        "familyName": "LeBeau"
+    },
+    "publisher": {
+        "@type": "Organization",
+        "legalName": "Dev Learning"
+    },
+    "audience": {
+        "@type": "EducationalAudience",
+        "educationalRole": [
+            "student"
+        ]
+    },
+    "educationalAlignment": [
+        {
+            "@type": "AlignmentObject",
+            "alignmentType": "assesses",
+            "educationalFramework": "Kunnskapsløftet",
+            "targetDescription": "beskrive og bruke plassverdisystemet for desimaltal, rekne med positive og negative heile tal, desimaltal, brøkar og prosent og plassere dei ulike storleikane på tallina",
+            "targetName": "K15185",
+            "targetUrl": "http://psi.udir.no/kl06/K15185"
+        },
+        {
+            "@type": "AlignmentObject",
+            "alignmentType": "assesses",
+            "educationalFramework": "Kunnskapsløftet",
+            "targetDescription": "utvikle, bruke og diskutere metodar for hovudrekning, overslagsrekning og skriftleg rekning og bruke digitale verktøy i berekningar",
+            "targetName": "K15186",
+            "targetUrl": "http://psi.udir.no/kl06/K15186"
+        }
+    ]
+}

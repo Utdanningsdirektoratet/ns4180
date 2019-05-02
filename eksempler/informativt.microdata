@@ -1,0 +1,37 @@
+<div itemscope itemtype="http://schema.org/CreativeWork">
+    <meta itemprop="name" content="Eksempeloppgave i tall og algebra">
+    <meta itemprop="dateCreated" content="2018-02-01">
+    <meta itemprop="inLanguage" content="no">
+    <meta itemprop="license" content="http://creativecommons.org/licenses/by-nc-nd/3.0/deed.no">
+    <meta itemprop="educationalUse" content="assessment">
+    <meta itemprop="timeRequired" content="PT2M">
+    <meta itemprop="typicalAgeRange" content="10-12">
+    <meta itemprop="interactivityType" content="active">
+    <meta itemprop="learningResourceType" content="assessmentItem">
+    <div itemprop="author" itemscope itemtype="http://schema.org/Person">
+        <meta itemprop="givenName" content="Gallus">
+        <meta itemprop="familyName" content="LeBeau">
+    </div>
+    <div itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+        <meta itemprop="legalName" content="Dev Learning">
+    </div>
+    <div itemprop="audience" itemscope itemtype="http://schema.org/EducationalAudience">
+        <meta itemprop="educationalRole" content="student">
+    </div>
+    <div itemprop="educationalAlignment" itemscope itemtype="http://schema.org/AlignmentObject">
+        <meta itemprop="alignmentType" content="assesses">
+        <meta itemprop="educationalFramework" content="Kunnskapsløftet">
+        <meta itemprop="targetDescription"
+            content="beskrive og bruke plassverdisystemet for desimaltal, rekne med positive og negative heile tal, desimaltal, brøkar og prosent og plassere dei ulike storleikane på tallina">
+        <meta itemprop="targetName" content="K15185">
+        <meta itemprop="targetUrl" content="http://psi.udir.no/kl06/K15185">
+    </div>
+    <div itemprop="educationalAlignment" itemscope itemtype="http://schema.org/AlignmentObject">
+        <meta itemprop="alignmentType" content="assesses">
+        <meta itemprop="educationalFramework" content="Kunnskapsløftet">
+        <meta itemprop="targetDescription"
+            content="utvikle, bruke og diskutere metodar for hovudrekning, overslagsrekning og skriftleg rekning og bruke digitale verktøy i berekningar">
+        <meta itemprop="targetName" content="K15186">
+        <meta itemprop="targetUrl" content="http://psi.udir.no/kl06/K15186">
+    </div>
+</div>
