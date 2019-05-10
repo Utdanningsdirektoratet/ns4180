@@ -8,6 +8,7 @@ Hensikten med NS4180 er å etablere en felles måte å beskrive og merke læring
 * [Vokabularer](vokabularer.md)
 * [Bruksområder](bruksomraader.md)
 * [Eksempler](eksempler.md)
+* [Utdanningsrammeverk](utdanningsrammeverk.md)
 
 ## Hvordan bidra
 
