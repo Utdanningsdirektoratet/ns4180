@@ -19,7 +19,8 @@ Egenskaper i tabellen er hentet fra typen [schema.org/CreativeWork](https://sche
 
 **Egenskap**|**Forventet type**|**Beskrivelse**|**Status**|
 ------------|------------------|---------------|----------|
-identifier|Text eller URL|Representerer en hver form for identifikator (*eks. URI, URL, DOI, ISBN*)|påkrevd
+identifier|Text eller URL eller PropertyValue|Representerer en hver form for identifikator (*eks. URI, URL, DOI, ISBN*)|påkrevd
+name|Text|Tittelen på ressursen|anbefalt
 description|Text|En beskrivelse av ressursen|anbefalt
 about|Thing|Innholdets emne|anbefalt
 dateCreated|Date eller DateTime|Dato for opprettelse av ressursen (*Datoformat som spesifisert i ISO 8601 benyttes*)|anbefalt
@@ -30,6 +31,7 @@ publisher|Organization eller Person|Organisasjon eller person som har ansvar for
 author|Person eller Organization|Person eller organisasjon som har ansvar for utarbeidelsen av ressursen (*Se tabell [1.1](#person) og [1.2](#organization)*)|valgfritt
 inLanguage|Text eller Language|Ressursens primærspråk (*Kodeformat som spesfisert i NS-ISO 639 (del 1 eller del 2) benyttes*)|anbefalt
 license|CreativeWork eller URL|Et lisensdokument som gjelder innholdet, som regel angitt som URL|anbefalt
+thumbnailUrl|URL|Et miniatyrbilde relevant for ressursen|anbefalt
 url|URL|URL for ressursen eller en landingsside for ressursen|valgfritt
 hasPart|CreativeWork|Ressursen består av mer detaljerte ressurser|valgfritt
 isPartOf|CreativeWork|Ressursen er en del av en mer generell ressurs|valgfritt
